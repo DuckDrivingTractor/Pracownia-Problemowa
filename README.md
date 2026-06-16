@@ -23,3 +23,9 @@ Okres przewidywania to 24 godziny, długość dataset walidacyjnego to 5-7 dni.
 Na razie realizujemy zadanie dla danych dotyczących Polski. Nad danymi z Niemiec jeszcze pracuję — muszę je pobrać w odpowiedniej formie. Planuję dostarczyć je Państwu w ciągu tygodnia.
 
 Preferowane są modele oparte na architekturze transformerów, natomiast pozostawiam Państwu dowolność w wyborze konkretnego podejścia i modelu.
+
+Spotkanie notatki:
+Modele: mixer, tft
+Energia: sprawdzić w krajach ościennych produkcję oze, w PL jest na stronce pst
+
+MLP-Mixer - nie transformerowy model, ale podobno mimo braku złożoności, zwraca bardzo dobre wyniki
