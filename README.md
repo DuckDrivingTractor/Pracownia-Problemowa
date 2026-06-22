@@ -18,3 +18,6 @@ Energia: sprawdzić w krajach ościennych produkcję oze, w PL jest na stronce p
 - Temporal Fusion Transformer(TFT)
 - TSMixer
 - także modele prostsze i referencyjne (np. naiwne baselines/persistence, ARIMA/Prophet, XGBoost, LSTM/GRU)
+
+## TODO
+Puścić model tak samo na paru słonecznych dniach.

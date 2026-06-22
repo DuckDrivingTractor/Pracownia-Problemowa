@@ -2,3 +2,5 @@ dane/
 .DS_Store
 notatki/
 dane_merged/
+*.pyc
+__pycache__/
