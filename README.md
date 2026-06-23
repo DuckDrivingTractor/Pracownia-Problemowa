@@ -19,6 +19,6 @@ Energia: sprawdzić w krajach ościennych produkcję oze, w PL jest na stronce p
 - TSMixer
 - także modele prostsze i referencyjne (np. naiwne baselines/persistence, ARIMA/Prophet, XGBoost, LSTM/GRU)
 
-#### Rozmowa (21.06.2026):
+#### Rozmowa (22.06.2026):
 - Puścić model na paru słonecznych/wietrznych dniach, porównać wyniki
 - Zrobić raport
