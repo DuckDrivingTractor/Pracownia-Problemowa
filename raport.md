@@ -7,7 +7,7 @@ Autorzy: Joanna Hełdak, Łukasz Sądej
 ## Spis treści
 1. [Przygotowanie zbioru danych](#1-przygotowanie-zbioru-danych)
 2. [Prognozowanie produkcji PV](#2-prognozowanie-produkcji-pv)
-3. [Prognozowanie produkcji wiatrowej (FW)](#3-prognozowanie-produkcji-wiatrowej-fw)
+3. [Prognozowanie produkcji wiatrowej FW](#3-prognozowanie-produkcji-wiatrowej-fw)
 
 ---
 
